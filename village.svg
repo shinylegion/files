@@ -149,4 +149,5 @@
             d="M718.14,327.47c-.3,2.84-1.43,7.22,3.41,7.32,5.63.12,3.56-4.75,4.06-7.92-.71-3.18,1.38-8.42-3.75-8.47-6.21-.07-3.38,5.75-3.72,9.07Z"
             style="fill:#198271; stroke-width:0px;" />
     </g>
+    <text x="40" y="60" font-size="24" fill="#585858ff" font-family="sans-serif" font-weight="bold">${t.toUpperCase()}</text>
 </svg>
